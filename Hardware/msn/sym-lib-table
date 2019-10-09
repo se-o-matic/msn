@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SparkFun-RF)(type Legacy)(uri C:/Data/Elektronik/KiCAD/SparkFun-Kicad-Libraries-master/SparkFun-RF.lib)(options "")(descr "")(disabled))
+  (lib (name SparkFun-RF2)(type Legacy)(uri F:/Elektronik/KiCAD/SparkFun-Kicad-Libraries-master/SparkFun-RF.lib)(options "")(descr ""))
+)

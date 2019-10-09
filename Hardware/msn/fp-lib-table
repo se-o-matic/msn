@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name RFM)(type KiCad)(uri C:/Data/Elektronik/KiCAD/SparkFun-Kicad-Libraries-master/SparkFun-RF.pretty)(options "")(descr "")(disabled))
+  (lib (name SparkFun-RF)(type KiCad)(uri F:/Elektronik/KiCAD/SparkFun-Kicad-Libraries-master/SparkFun-RF.pretty)(options "")(descr ""))
+)
