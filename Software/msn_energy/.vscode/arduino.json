@@ -1,0 +1,5 @@
+{
+    "sketch": "msn_energy.ino",
+    "board": "arduino:avr:pro",
+    "configuration": "cpu=8MHzatmega328"
+}
