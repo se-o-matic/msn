@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:pro",
+    "configuration": "cpu=8MHzatmega328",
+    "sketch": "msn_BME280_BH1750.ino",
+    "port": "COM3"
+}
