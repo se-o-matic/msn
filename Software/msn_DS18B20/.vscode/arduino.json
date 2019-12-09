@@ -1,0 +1,6 @@
+{
+    "sketch": "msn_DS18B20.ino",
+    "board": "arduino:avr:pro",
+    "configuration": "cpu=8MHzatmega328",
+    "port": "COM3"
+}
