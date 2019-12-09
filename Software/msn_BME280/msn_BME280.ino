@@ -25,7 +25,7 @@ MyMessage msgHum(CHILD_ID_HUM, V_HUM);
 
 // Define strings, which are send to the controller
 #define SKETCHSTR "Temp Humidity Sensor"
-#define SKETCHVER "0.2.0"
+#define SKETCHVER "1.0"
 
 // Sleep time for sensor 
 uint32_t SLEEP_TIME = 300000;    // sleep time between reads (seconds * 1000 milliseconds)
