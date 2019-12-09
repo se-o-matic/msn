@@ -66,7 +66,7 @@ void setup() {
   bh1750.begin(BH1750::ONE_TIME_HIGH_RES_MODE);
 
   //BME280 stuff
-  bme.begin(BME280_ADDRESS_ALTERNATE, &Wire);    //0x76 for break out board, 0x77 for MSN_R00
+  bme.begin(0x77, &Wire);    //0x76 for break out board, 0x77 for MSN_R00
   bme.setSampling(Adafruit_BME280::MODE_FORCED,
                   Adafruit_BME280::SAMPLING_X1,   // temperature
                   Adafruit_BME280::SAMPLING_NONE, // pressure
